@@ -1,0 +1,3 @@
+Name = 
+Msgbox = 
+webhook = 
